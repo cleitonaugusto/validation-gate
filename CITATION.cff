@@ -5,9 +5,10 @@ message: >-
   published or client-facing analysis, please cite it and credit the author.
 type: software
 authors:
-  - family-names: "Corrêa Bezerra"
-    given-names: "Cleiton Augusto"
+  - family-names: "Bezerra"
+    given-names: "Cleiton Augusto Corrêa"
     email: augusto.cleiton@gmail.com
+    orcid: "https://orcid.org/0009-0003-5543-8026"
 repository-code: "https://github.com/cleitonaugusto/validation-gate"
 url: "https://cleitonaugusto.github.io/validation/"
 abstract: >-

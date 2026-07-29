@@ -177,8 +177,10 @@ credit the author.** GitHub's "Cite this repository" button reads
 [`CITATION.cff`](CITATION.cff) and will give you BibTeX or APA.
 
 ```
-Corrêa Bezerra, C. A. (2026). validation-gate: a gate that refuses the shortcuts
-behind irreproducible claims (v0.1.0). https://github.com/cleitonaugusto/validation-gate
+Bezerra, C. A. C. (2026). validation-gate: a gate that refuses the shortcuts behind
+irreproducible claims (v0.1.0) [Computer software].
+https://github.com/cleitonaugusto/validation-gate
+ORCID: 0009-0003-5543-8026
 ```
 
 If a verdict from this gate changed a decision — a claim dropped, an investment
