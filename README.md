@@ -166,4 +166,21 @@ AI-for-science company, for founders who want an independent verdict to hand an
 investor, and for R&D teams deciding whether to commit lab budget to a model's
 predictions. [Details and contact.](https://cleitonaugusto.github.io/validation/)
 
-MIT licensed.
+## Citation and credit
+
+MIT licensed — use it commercially, fork it, ship it. The licence already requires the
+copyright notice to travel with any copy or substantial portion of the code.
+
+Beyond that, a request rather than a legal condition: **if this tool informs a paper, a
+due-diligence memo, a model card, or any published or client-facing analysis, cite it and
+credit the author.** GitHub's "Cite this repository" button reads
+[`CITATION.cff`](CITATION.cff) and will give you BibTeX or APA.
+
+```
+Corrêa Bezerra, C. A. (2026). validation-gate: a gate that refuses the shortcuts
+behind irreproducible claims (v0.1.0). https://github.com/cleitonaugusto/validation-gate
+```
+
+If a verdict from this gate changed a decision — a claim dropped, an investment
+reconsidered, a wet-lab budget redirected — I would genuinely like to hear about it.
+Open an issue or [get in touch](https://cleitonaugusto.github.io/validation/).

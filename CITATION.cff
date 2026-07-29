@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "validation-gate: a gate that refuses the shortcuts behind irreproducible claims"
+message: >-
+  If you use this software in your research, in a due-diligence report, or in any
+  published or client-facing analysis, please cite it and credit the author.
+type: software
+authors:
+  - family-names: "Corrêa Bezerra"
+    given-names: "Cleiton Augusto"
+    email: augusto.cleiton@gmail.com
+repository-code: "https://github.com/cleitonaugusto/validation-gate"
+url: "https://cleitonaugusto.github.io/validation/"
+abstract: >-
+  A validation gate for machine learning in science. It enforces hash-sealed
+  pre-registration, a mandatory trivial baseline that must be beaten in the
+  declared direction, a blind holdout counted in a ledger so a second run is
+  refused, and paired bootstrap confidence intervals on the gain over the
+  baseline. It reports four verdicts rather than two: a holdout under 30 points
+  returns INCONCLUSIVE instead of being called a pass. Built by auditing the
+  author's own computational-chemistry research, where it passed zero of five
+  benchmarks.
+keywords:
+  - validation
+  - reproducibility
+  - pre-registration
+  - baseline comparison
+  - blind holdout
+  - machine learning for science
+license: MIT
+version: 0.1.0
+date-released: "2026-07-29"
